@@ -1,10 +1,10 @@
 cask "usage-island" do
-  version "0.1.4"
-  sha256 "62bfda5f2c93180ddbd96331327fb0d9205634f2e9149bec8c985c5e427f61b4"
+  version "0.1.5"
+  sha256 "a6c0333a6bb4b6a4830335edb64f98a6261dc36cfae04ea12ec13942ec1d86c8"
 
   url "https://github.com/LikanLabs/UsageIsland/releases/download/v#{version}/Usage-Island.zip"
   name "Usage Island"
-  desc "Codex usage monitor for the macOS menu bar and screen edge"
+  desc "Codex and Claude Code usage beside the MacBook notch"
   homepage "https://github.com/LikanLabs/UsageIsland"
 
   depends_on macos: :sonoma
