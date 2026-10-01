@@ -1,6 +1,6 @@
 cask "usage-island" do
-  version "0.1.9"
-  sha256 "919896fefc6bfc4a8fe7bfa16314d70bbae3a94c607dfc040f3f2e298427a73c"
+  version "0.1.10"
+  sha256 "f95fd6b784839c178c857f6e0a1cd2af29adedd4ef97719f524af02cde3ab8ad"
 
   url "https://github.com/LikanLabs/UsageIsland/releases/download/v#{version}/Usage-Island.zip"
   name "Usage Island"
